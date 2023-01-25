@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">Actuary student. Data scientist junior. Autodidact with passion for learn.</h3>
+<h3 align="center">Actuary student. Data scientist junior.</h3>
+
+- Contact me **nicolascoronel97@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
