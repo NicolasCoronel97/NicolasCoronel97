@@ -3,6 +3,12 @@
 
 - Contact me **nicolascoronel97@hotmail.com**
 
+## Projects
+
+● [Food Delivery Time Prediction](https://github.com/NicolasCoronel97/Food-Delivery-Time-Prediction) : Predicting the time taken of deliveries in real time. (Python, Numpy, Pandas, Plotly Express, Scikit-Learn, TensorFlow-Keras)
+
+● [House Price Prediction](https://github.com/NicolasCoronel97/House-price-prediction) : This project predicts the price of houses. (Python, Numpy, Pandas, Matplotlib, Scikit-Learn)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nicolas-coronel-7224761ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-coronel-7224761ab/" height="30" width="40" /></a>
